@@ -10,7 +10,7 @@
 **LimpiarAmigo():**
 Está función limpia el ingreso del nombre cada vez que el jugador de click en añadir
 
-**AgregarAmigo(): **
+**AgregarAmigo():**
 Con cada ingreso que dé el jugador está funcion añade a la lista vacia el nombre del amigo escogido, además de mostrar debajo los nombres seleccionados; si esta vacio el campo y da click en añadir le indicará que debe ingresar algo; también controla el cambio de frase, cuando se detiene el juego con un validador *AND* 
 
 **SortearAmigo():**
